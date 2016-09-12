@@ -2,7 +2,7 @@
 =======
 [![Build Status](https://travis-ci.org/codefellows-seattle-301d9/01-mobile-first.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d9/01-mobile-first) [![GitHub issues](https://img.shields.io/badge/Stuck%3F-Ask%20for%20Help!-orange.svg)](https://github.com/codefellows/seattle-301d9/issues/new)
 
-### Help make our Blog web app mobile-first responsive!
+## Help make our Blog web app mobile-first responsive!
 
 ## Getting started with pair programming
 
